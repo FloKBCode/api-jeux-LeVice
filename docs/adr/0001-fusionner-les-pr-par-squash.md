@@ -1,7 +1,7 @@
 # 1. Fusionner les pull requests avec « Squash and merge »
 
 - **Date** : 2026-10-06
-- **Statut** : Proposée
+- **Statut** : Acceptée
 
 ## Contexte
 
